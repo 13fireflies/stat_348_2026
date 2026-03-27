@@ -17,7 +17,7 @@ The University of Chicago
 
 
 ## Assignments
-(Will be posted here.)
+- [Assignment 1: Bayesian linear regression](https://github.com/aschein/stat_348_2026/blob/main/assignments/hw1/hw1.ipynb). Due **Sunday April 5 at 11:59pm** on GradeScope. 
 
 ## Schedule
 
