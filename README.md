@@ -12,7 +12,7 @@ The University of Chicago
 - Place: Eckhart room 133
 - TA office hours (starting week of March 30): 
     - Jimmy: Thu 6-7pm (Jones 204B)
-    - Sean: Fri 10-11am (Jones TBD)
+    - Sean: Fri 10-11am (Jones 226)
     - Tannistha: Tue 4-5pm (Jones TBD)
 
 
