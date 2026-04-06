@@ -12,12 +12,13 @@ The University of Chicago
 - Place: Eckhart room 133
 - TA office hours (starting week of March 30): 
     - Jimmy: Thu 6-7pm (Jones 204B)
-    - Sean: Fri 10-11am (Jones 226)
+    - Sean: Fri 11am-12pm (Jones 226)
     - Tannistha: Tue 4-5pm (Harper Memorial 151)
 
 
 ## Assignments
-- [Assignment 1: Bayesian linear regression](https://github.com/aschein/stat_348_2026/blob/main/assignments/hw1/hw1.ipynb). Due **Sunday April 5 at 11:59pm** on GradeScope. 
+- [Assignment 1: Bayesian linear regression](https://github.com/aschein/stat_348_2026/blob/main/assignments/hw1/hw1.ipynb). Due **Sunday April 5 at 11:59pm** on GradeScope.
+- [Assignment 2: Hierarchical models and Gibbs sampling](https://github.com/aschein/stat_348_2026/blob/main/assignments/hw2/hw2.ipynb). Due **Monday April 13 at 11:59pm** on GradeScope.
 
 ## Schedule
 
