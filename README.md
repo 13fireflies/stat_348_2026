@@ -67,5 +67,27 @@ The University of Chicago
       
 - Lecture materials: 
     - [iPad notes](https://github.com/aschein/stat_348_2026/blob/main/lecture_materials/ipad_notes/lecture_4.pdf)
+
+ ### Lecture 5 (April 7): Bayesian mixture models, conjugacy and exponential familes
+- Reading / resources (optional; for reference) roughly in the order as they appeared in lecture:
+    - Chapters 9.1-9.2 of Bishop (2006) [_Pattern Recognition and Machine Learning_](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) on **mixture models**
+    - [Scott Linderman's slides](https://github.com/slinderman/stats305c/blob/spring2023/slides/lecture07-mixtures.pdf) on **Bayesian mixture models**
+    - [David Blei's Lecture materials](http://www.cs.columbia.edu/~blei/fogm/2016F/doc/gibbs.pdf) on **Bayesian mixture models**
+    - ["Dealing with label switching in mixture models" by Stephens (2000)](https://stephenslab.uchicago.edu/assets/papers/Stephens2000b.pdf)
+    - [David Blei's lectures notes](https://www.cs.columbia.edu/~blei/fogm/2015F/notes/exponential-family.pdf) on **conjugacy and exponential families**
+    - [Jeffrey Miller's slides](https://jwmi.github.io/BMB/3-Conjugate-priors.pdf) on **conjugate priors**
+      
+- Lecture materials: 
+    - [iPad notes](https://github.com/aschein/stat_348_2026/blob/main/lecture_materials/ipad_notes/lecture_5.pdf)
+
+### Lecture 6 (April 9): The EM algorithm
+- Reading / resources (optional; for reference) roughly in the order as they appeared in lecture:
+   - Chapter 9 of Bishop (2006) [_Pattern Recognition and Machine Learning_](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) on **mixture models and EM**
+   - [Scott Linderman's slides](https://github.com/slinderman/stats305c/blob/spring2023/slides/lecture08-em.pdf) on **EM**
+   - Section 6.2.1 (and related sections) of ["Graphical models, exponential families, and variational inference" by Wainwright & Jordan (2008)](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/reading/WainwrightJordan2008.pdf) on **EM in exponential families**
+   - ["Homeomorphic-Invariance of EM..." by Kunstner et al. (2021)](https://proceedings.mlr.press/v130/kunstner21a/kunstner21a.pdf) on the **convergence properties of EM**
+
+- Lecture materials: 
+    - [iPad notes](https://github.com/aschein/stat_348_2026/blob/main/lecture_materials/ipad_notes/lecture_6.pdf)
       
 
