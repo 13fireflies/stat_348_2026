@@ -157,3 +157,12 @@ The University of Chicago
 - Lecture materials:
     - [iPad notes](https://github.com/aschein/stat_348_2026/blob/main/lecture_materials/ipad_notes/lecture_11.pdf) (from last time; **updated**)
     - [iPad notes](https://github.com/aschein/stat_348_2026/blob/main/lecture_materials/ipad_notes/lecture_12.pdf)
+ 
+### Lecture 13 (May 7): Black box VI and score function gradients
+- Reading / resources:
+    - Scott Linderman's [slides](https://github.com/slinderman/stats305c/blob/spring2023/slides/lecture11-advi.pdf) on **gradient-based VI**
+    - ["Black box variational inference" by Ranganath et al. (2013)](https://arxiv.org/abs/1401.0118) **introduced VI with score function gradients**
+    - ["Advances in Variational Inference" by Zhang et al. (2019)](https://ieeexplore.ieee.org/document/8588399) **excellent survey of modern VI**
+
+- Lecture materials:
+    - Coming soon...
