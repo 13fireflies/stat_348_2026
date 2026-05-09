@@ -144,4 +144,25 @@ The University of Chicago
     - Jeffrey Miller's [slides](https://jwmi.github.io/BMB/12-Variational-inference-and-LDA.pdf) on **CAVI for LDA**
 
 - Lecture materials:
-    - [iPad notes](https://github.com/aschein/stat_348_2026/blob/main/lecture_materials/ipad_notes/lecture_11.pdf) (**updated**)
+    - [iPad notes](https://github.com/aschein/stat_348_2026/blob/main/lecture_materials/ipad_notes/lecture_11.pdf)
+ 
+### Lecture 12 (May 5): Poisson matrix factorization, data augmentation, stochastic variational inference (SVI)
+- Reading / resources:
+    - ["Variational inference: A review for statisticians" by Blei, Kucukelbir & McAuliffe (2017) ](http://www.cs.columbia.edu/~blei/fogm/2018F/materials/BleiKucukelbirMcAuliffe2017.pdf) **an excellent review paper on VI and SVI**
+    - [Slides from STAT 451](https://github.com/aschein/stat_451/blob/main/materials/lecture_2.pdf) on **CAVI and SVI**
+    - ["Scalable Recommendation with Poisson factorization" by Gopalan et al. (2014)](https://arxiv.org/pdf/1311.1704) **Poisson MF for recommendation**
+    - ["Cookbook-based Scalable Music Tagging with Poisson Matrix Factorization" by Liang, Paisley & Ellis (2014)](https://archives.ismir.net/ismir2014/paper/000363.pdf) **great example of CAVI/SVI for Poisson MF**
+    - ["On the Connection Between Non-Negative Matrix Factorization and Latent Dirichlet Allocation" by Geiger (2024)](https://arxiv.org/html/2405.20542v1) **on the connection**
+   
+- Lecture materials:
+    - [iPad notes](https://github.com/aschein/stat_348_2026/blob/main/lecture_materials/ipad_notes/lecture_11.pdf) (from last time; **updated**)
+    - [iPad notes](https://github.com/aschein/stat_348_2026/blob/main/lecture_materials/ipad_notes/lecture_12.pdf)
+ 
+### Lecture 13 (May 7): Black box VI and score function gradients
+- Reading / resources:
+    - Scott Linderman's [slides](https://github.com/slinderman/stats305c/blob/spring2023/slides/lecture11-advi.pdf) on **gradient-based VI**
+    - ["Black box variational inference" by Ranganath et al. (2013)](https://arxiv.org/abs/1401.0118) **introduced VI with score function gradients**
+    - ["Advances in Variational Inference" by Zhang et al. (2019)](https://ieeexplore.ieee.org/document/8588399) **excellent survey of modern VI**
+
+- Lecture materials:
+    - Coming soon...
