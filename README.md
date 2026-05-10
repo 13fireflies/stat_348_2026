@@ -22,6 +22,7 @@ The University of Chicago
 - [Assignment 3: Mixture models and EM](https://github.com/aschein/stat_348_2026/blob/main/assignments/hw3/hw3.ipynb). Due **Monday April 20 at 11:59pm** on GradeScope.
 - [Assignment 4: HMMs and the sum-product algorithm](https://github.com/aschein/stat_348_2026/blob/main/assignments/hw4/hw4.ipynb). Due **Monday April 27 at 11:59pm** on GradeScope.
 - [Assignment 5: Poisson matrix factorization and CAVI](https://github.com/aschein/stat_348_2026/blob/main/assignments/hw5/hw5.ipynb). Due **Sunday May 10 at 11:59pm** on GradeScope.
+- [Assignment 6: BBVI for non-conjugate models](https://github.com/aschein/stat_348_2026/blob/main/assignments/hw6/hw6.ipynb). Due **Sunday May 17 at 11:59pm** on GradeScope.
 
 ## Schedule
 
