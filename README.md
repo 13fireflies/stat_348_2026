@@ -165,4 +165,4 @@ The University of Chicago
     - ["Advances in Variational Inference" by Zhang et al. (2019)](https://ieeexplore.ieee.org/document/8588399) **excellent survey of modern VI**
 
 - Lecture materials:
-    - Coming soon...
+    - [iPad notes](https://github.com/aschein/stat_348_2026/blob/main/lecture_materials/ipad_notes/lecture_13.pdf)
