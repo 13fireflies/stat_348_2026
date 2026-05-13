@@ -180,4 +180,4 @@ The University of Chicago
     - ["Lossless compression with latent variable models using bits-back coding" by Brian Keng](https://bjlkeng.io/posts/lossless-compression-with-latent-variable-models-using-bits-back-coding/) **blogpost explaining the "bits-back" argument**
    
 - Lecture materials:
-    - [iPad notes](https://github.com/aschein/stat_348_2026/blob/main/lecture_materials/markdown_notes/lecture_14_vaes.pdf)
+    - [Markdown notes](https://github.com/aschein/stat_348_2026/blob/main/lecture_materials/markdown_notes/lecture_14_vaes.pdf)
