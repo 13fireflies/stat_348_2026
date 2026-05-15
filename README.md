@@ -23,6 +23,7 @@ The University of Chicago
 - [Assignment 4: HMMs and the sum-product algorithm](https://github.com/aschein/stat_348_2026/blob/main/assignments/hw4/hw4.ipynb). Due **Monday April 27 at 11:59pm** on GradeScope.
 - [Assignment 5: Poisson matrix factorization and CAVI](https://github.com/aschein/stat_348_2026/blob/main/assignments/hw5/hw5.ipynb). Due **Sunday May 10 at 11:59pm** on GradeScope.
 - [Assignment 6: BBVI for non-conjugate models](https://github.com/aschein/stat_348_2026/blob/main/assignments/hw6/hw6.ipynb). Due **Sunday May 17 at 11:59pm** on GradeScope.
+- [Assignment 7: Neural networks and VAEs](https://github.com/aschein/stat_348_2026/blob/main/assignments/hw7/hw7.ipynb). Due **Sunday May 24 at 11:59pm** on GradeScope. 
 
 ## Schedule
 
@@ -181,3 +182,14 @@ The University of Chicago
    
 - Lecture materials:
     - [Markdown notes](https://github.com/aschein/stat_348_2026/blob/main/lecture_materials/markdown_notes/lecture_14_vaes.pdf)
+ 
+### Lecture 15 (May 24): Diffusion models
+- Reading / resources:
+    - ["Understanding diffusion models: A unified perspective" by Luo (2022)](https://www.calvinyluo.com/2022/08/26/diffusion-tutorial.html) **excellent tutorial on diffusion math**
+    - ["Denoising Diffusion Probabilistic Models" by Ho et al. (2020)](https://arxiv.org/abs/2006.11239) **introduced notion of a forward noising process and learned reverse process**
+    - ["Score-Based Generative Modeling through Stochastic Differential Equations" by Song et al. (2021)](https://arxiv.org/abs/2011.13456) **introduced continuous-time limit using SDEs and connected diffusion to score-based generative modeling**
+    - ["Variational diffusion models" by Kingma et al. (2021)](https://arxiv.org/abs/2107.00630) **introduced variational inference interpretation of diffusion**
+    - Scott Linderman's [slides](https://github.com/slinderman/stats305c/blob/spring2023/slides/lecture17-sdes.pdf) on **SDEs and diffusion**
+
+- Lecture materials:
+    - [Markdown notes](https://github.com/aschein/stat_348_2026/blob/main/lecture_materials/markdown_notes/lecture_15_diffusion.pdf)
