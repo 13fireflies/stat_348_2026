@@ -199,6 +199,7 @@ The University of Chicago
     - Scott Linderman's [slides](https://github.com/slinderman/stats305c/blob/spring2023/slides/lecture16-poisson_processes.pdf) on **Poisson point processes**
     - Scott Linderman's [slides](https://github.com/slinderman/stats305c/blob/spring2023/slides/lecture18-dpmm.pdf) on **Dirichlet process mixture models**
     - Peter Orbanz's [lecture notes](https://www.gatsby.ucl.ac.uk/~porbanz/papers/porbanz_BNP_draft.pdf) on **Bayesian nonparametrics**
+      
 - Lecture materials:
     - [Markdown notes](https://github.com/aschein/stat_348_2026/blob/main/lecture_materials/markdown_notes/lecture_16_poisson_and_bnp.pdf)
 
@@ -208,5 +209,6 @@ The University of Chicago
     - ["Martingale posterior distributions" by (Fong, Holmes, Walker (2023)](https://academic.oup.com/jrsssb/article/85/5/1357/7597700?guestAccessKey=)
     - ["Exchangeability, Prediction and Predictive Modeling in Bayesian Statistics" by Fortini & Petrone (2025)](https://projecteuclid.org/journals/statistical-science/volume-40/issue-1/Exchangeability-Prediction-and-Predictive-Modeling-in-Bayesian-Statistics/10.1214/24-STS965.short)
     - [Post-Bayes seminar series](https://postbayes.github.io/seminar/)
+      
 - Lecture materials:
     - [Markdown notes](https://github.com/aschein/stat_348_2026/blob/main/lecture_materials/markdown_notes/lecture_17_post_bayesian.pdf)
